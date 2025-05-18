@@ -1,4 +1,4 @@
-package com.erencsahin.kafkaconsumer;
+package com.erencsahin.kafkaconsumerpostgresql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
